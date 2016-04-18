@@ -1,2 +1,2 @@
 Prova:
-CREO CONFLITTO da locale
+Creazione conflitto abbestia.
