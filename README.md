@@ -1,2 +1,2 @@
 Prova:
-Creazione conflitto abbestia.
+Cerco di creare conflitti.
