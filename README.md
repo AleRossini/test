@@ -1,2 +1,2 @@
 Prova:
-CREO CONFLITTO da origin
+CREO CONFLITTO da locale
